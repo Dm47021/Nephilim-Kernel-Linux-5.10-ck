@@ -2,8 +2,8 @@
 VERSION = 5
 PATCHLEVEL = 10
 SUBLEVEL = 0
-EXTRAVERSION =
-NAME = Kleptomaniac Octopus
+EXTRAVERSION = -nephilim-technology
+NAME = Diabolic
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
